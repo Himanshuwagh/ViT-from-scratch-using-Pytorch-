@@ -16,4 +16,5 @@ The Vision Transformer (ViT) model was proposed in An Image is Worth 16x16 Words
 
 ### References
 
-1. learnpytorch.io(https://www.learnpytorch.io/)
+1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (https://arxiv.org/abs/2010.11929) 
+2. learnpytorch.io (https://www.learnpytorch.io/)
